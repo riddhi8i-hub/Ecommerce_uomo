@@ -20,7 +20,7 @@ const LoginSignUp = () => {
     e.preventDefault();
 
     try {
-      const res = await axios.post("https://ecommerce-uomo.onrender.com", {
+      const res = await axios.post("https://ecommerce-uomo.onrender.com/register", {
         name: registerName,
         email: registerEmail,
         password: registerPassword,
