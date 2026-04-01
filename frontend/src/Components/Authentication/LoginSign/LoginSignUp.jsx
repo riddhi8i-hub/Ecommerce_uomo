@@ -36,7 +36,7 @@ const LoginSignUp = () => {
     e.preventDefault();
 
     try {
-      const res = await axios.post("http://localhost:5000/login", {
+      const res = await axios.post("https://ecommerce-uomo.onrender.com/login", {
         email: loginEmail,
         password: loginPassword,
       });
