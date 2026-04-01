@@ -141,7 +141,7 @@ const Footer = () => {
           <p>
             © {getCurrentYear()} Uomo. All Rights Reserved | Made By{" "}
             <a
-              href=""
+              href="https://github.com/riddhi8i-hub/Ecommerce_uomo.git"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
