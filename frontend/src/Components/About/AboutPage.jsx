@@ -22,39 +22,27 @@ const AboutPage = () => {
   return (
     <>
       <div className="aboutSection">
-        <h2>About Uomo</h2>
+        <h2>About RiddhiMart</h2>
         <img src={about1} alt="" />
         <div className="aboutContent">
           <h3>Our Story</h3>
           <h4>
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+            The RiddhiMart Group is one of India’s leading digital commerce entities and includes group companies RiddhiMart, Myntra, RiddhiMart Wholesale, RiddhiMart Health+, and Cleartrip.
           </h4>
           <p>
-            Saw wherein fruitful good days image them, midst, waters upon, saw.
-            Seas lights seasons. Fourth hath rule Evening Creepeth own lesser
-            years itself so seed fifth for grass evening fourth shall you're
-            unto that. Had. Female replenish for yielding so saw all one to
-            yielding grass you'll air sea it, open waters subdue, hath. Brought
-            second Made. Be. Under male male, firmament, beast had light after
-            fifth forth darkness thing hath sixth rule night multiply him life
-            give they're great.
+            Started in 2025, RiddhiMart has enabled millions of sellers, merchants, and small businesses to participate in India's digital commerce revolution. With a registered customer base of more than 500 million, RiddhiMart's marketplace offers over 150 million products across 80+ categories. Today, there are over 14 lakh sellers on the platform, including Shopsy sellers. With a focus on empowering and delighting every Indian by delivering value through technology and innovation, RiddhiMart has created lakhs of jobs in the ecosystem while empowering generations of entrepreneurs and MSMEs. RiddhiMart is known for pioneering services such as Cash on Delivery, No Cost EMI and easy returns, which are customer-centric innovations that have made online shopping more accessible and affordable for millions of Indians
           </p>
           <div className="content1">
             <div className="contentBox">
               <h5>Our Mission</h5>
               <p>
-                Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat.
+                At RiddhiMart, we are dedicated to the cause of maximising for our customers, stakeholders and the planet. We achieve this when Flipsters maximise themselves on the dimensions of their own choice — be it their potential, impact, voice, ideas, influence, well-being, and more.
               </p>
             </div>
             <div className="contentBox">
               <h5>Our Vision</h5>
               <p>
-                Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo consequat.
+                RiddhiMart’s Workplace Equality charter is built on the pillars of trust, inclusion, support, recognition and genuine care.
               </p>
             </div>
           </div>
@@ -65,12 +53,7 @@ const AboutPage = () => {
             <div className="textContent">
               <h5>The Company</h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet
-                sapien dignissim a elementum. Sociis metus, hendrerit mauris id
-                in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis
-                sodales orci etiam phasellus lacus id leo. Amet turpis nunc,
-                nulla massa est viverra interdum. Praesent auctor nulla morbi
-                non posuere mattis. Arcu eu id maecenas cras.
+                Through our powerful partnerships with communities, civil society organisations, and coalitions, we seek to drive positive impact with ecosystem conversations, enable cross learning and contribute to building a sustainable future for all. As we start our journey, we know that it would not be easy. We believe that it is important to develop a culture of sustainability where we can bring everyone together through our journey.
               </p>
             </div>
           </div>
