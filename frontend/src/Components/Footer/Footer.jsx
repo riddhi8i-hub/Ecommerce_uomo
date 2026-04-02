@@ -34,10 +34,10 @@ const Footer = () => {
               <img src={logo} alt="" Z />
             </div>
 
-            <p>1418 River Drive, Suite 35 Cottonhall, CA 9622 United States</p>
+            <p>220 Unique park, kolkata, behala 700034</p>
 
             <div className="footer_address">
-              <strong> sale@uomo.com </strong>
+              <strong> riddhimart@gamil.com </strong>
               <strong> +1 246-345-0695 </strong>
             </div>
 
@@ -139,7 +139,7 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © {getCurrentYear()} Uomo. All Rights Reserved | Made By{" "}
+            © {getCurrentYear()} RiddhiMart. All Rights Reserved | Made By{" "}
             <a
               href="https://github.com/riddhi8i-hub/Ecommerce_uomo"
               target="_blank"
