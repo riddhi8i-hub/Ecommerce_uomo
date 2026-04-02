@@ -141,7 +141,7 @@ const Footer = () => {
           <p>
             © {getCurrentYear()} RiddhiMart. All Rights Reserved | Made By{" "}
             <a
-              href="https://github.com/riddhi8i-hub/Ecommerce_uomo"
+              href="https://www.linkedin.com/in/riddhiman-saha-872610231?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
