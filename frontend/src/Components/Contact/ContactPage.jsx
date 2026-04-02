@@ -34,13 +34,13 @@ const ContactPage = () => {
         <div className="contactInfo">
           <div className="contactAddress">
             <div className="address">
-              <h3>Store in London</h3>
+              <h3>Store in Kolkata</h3>
               <p>
-                1418 River Drive, Suite 35 Cottonhall, CA 9622
-                <br /> United Kingdom
+                220 Unique Park,700034
+                <br /> Behala
               </p>
               <p>
-                admin@dummymail.com
+                riddhimansaha@gmail.com
                 <br />
                 +44 20 7123 4567
               </p>
@@ -52,7 +52,7 @@ const ContactPage = () => {
                 <br /> Maharashtra
               </p>
               <p>
-                contact@dummymail.com
+                riddhimansaha@gmail.com
                 <br />
                 +44 20 7123 4567
               </p>
