@@ -186,10 +186,11 @@ const Product = () => {
             </div>
             <div className="productDescription">
               <p>
-                Phasellus sed volutpat orci. Fusce eget lore mauris vehicula
-                elementum gravida nec dui. Aenean aliquam varius ipsum, non
-                ultricies tellus sodales eu. Donec dignissim viverra nunc, ut
-                aliquet magna posuere eget.
+                Mens Denim Jacket || Jecket For Men || Denim Jackets
+                Timeless Style: This denim jacket for men is a versatile and stylish addition to any wardrobe, perfect for casual or semi-formal occasions.
+                Durable Construction: Crafted from high-quality denim material, ensuring long-lasting wear and resistance to fading or tearing.
+                Comfortable Fit: Designed with a relaxed yet flattering fit, allowing for easy movement and layering options.
+                Please Noted - Only upper part of Only shirt is given Not inner t shirt and No any Accessories given
               </p>
             </div>
             <div className="productSizeColor">
