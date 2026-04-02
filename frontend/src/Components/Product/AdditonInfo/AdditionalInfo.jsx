@@ -48,18 +48,11 @@ const AdditionalInfo = () => {
                 <div className="descriptionPara">
                   <h3>Sed do eiusmod tempor incididunt ut labore</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum. Sed ut perspiciatis
-                    unde omnis iste natus error sit voluptatem accusantium
-                    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-                    illo inventore veritatis et quasi architecto beatae vitae
-                    dicta sunt explicabo.
+                    Mens Denim Jacket || Jecket For Men || Denim Jackets
+                    Timeless Style: This denim jacket for men is a versatile and stylish addition to any wardrobe, perfect for casual or semi-formal occasions.
+                    Durable Construction: Crafted from high-quality denim material, ensuring long-lasting wear and resistance to fading or tearing.
+                    Comfortable Fit: Designed with a relaxed yet flattering fit, allowing for easy movement and layering options.
+                    Please Noted - Only upper part of Only shirt is given Not inner t shirt and No any Accessories given
                   </p>
                 </div>
                 <div className="descriptionParaGrid">
@@ -159,10 +152,7 @@ const AdditionalInfo = () => {
                           style={{ marginBottom: "30px" }}
                         >
                           <p>
-                            Nam libero tempore, cum soluta nobis est eligendi
-                            optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus, omnis voluptas assumenda
-                            est…
+                            The fabric feels strong and comfortable at the same time. It gives a nice structured look without feeling too heavy on the shoulders. The stitching looks neat and the finish gives it a classy vibe
                           </p>
                         </div>
                       </div>
@@ -189,10 +179,7 @@ const AdditionalInfo = () => {
                         </div>
                         <div className="userReviewBottomContent">
                           <p>
-                            Nam libero tempore, cum soluta nobis est eligendi
-                            optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus, omnis voluptas assumenda
-                            est…
+                            Absolutely loved this denim jacket! The quality of the fabric is excellent and feels durable yet comfortable. The fit is perfect and gives a very stylish look. It pairs well with both casual and semi-casual outfits. Stitching and finishing are also top-notch. Totally worth the price—highly recommended! 👍
                           </p>
                         </div>
                       </div>
